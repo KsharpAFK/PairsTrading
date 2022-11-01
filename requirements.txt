@@ -1,0 +1,6 @@
+asyncio
+pandas
+binance
+sqlalchemy
+python-binance
+statsmodels
